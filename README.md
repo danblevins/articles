@@ -1,5 +1,5 @@
 # Insightful Articles
-This is a list of articles I've found insightful.
+This is a list of articles I've found insightful or thought provoking.
 
 -
   - 
