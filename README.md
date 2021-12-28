@@ -6,7 +6,14 @@ This is a list of articles I've found thought provoking. Presented in descending
 <br>
 June 01, 2021 - <a href="http://www.paulgraham.com/hwh.html">How to Work Hard by Paul Graham</a>
 <br>
+
+<br>
+<b>2019</b>
+<br>
+November 16, 2019 - <a href="https://quillette.com/2019/11/16/thorstein-veblens-theory-of-the-leisure-class-a-status-update/#:~:text=Thorstein%20Veblen's%20Theory%20of%20the%20Leisure%20Class%E2%80%94A%20Status%20Update,-Rob%20Henderson&text=Luxury%20beliefs%20are%20ideas%20and,class%20with%20their%20material%20accoutrements.">Thorstein Veblen's Theory of the Leisure Class -- A Status Update by Rob Henderson</a>
+<br>
+
 <br>
 <b>2010</b>
 <br>
-April 01, 2010 - <a href="http://www.paulgraham.com/organic.html">Organic Statrtup Ideas by Paul Graham</a>
+April 01, 2010 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
