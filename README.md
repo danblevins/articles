@@ -6,6 +6,8 @@ This is a list of articles I've found thought provoking or informative. Presente
 <br>
 Oct 21 - <a href="https://danluu.com/look-stupid/">Willingness to Look Stupid by Dan Luu</a>
 <br>
+Oct 05 - <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
+<br>
 Jun 01 - <a href="http://www.paulgraham.com/hwh.html">How to Work Hard by Paul Graham</a>
 <br>
 
