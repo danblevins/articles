@@ -20,6 +20,8 @@ Mar 15 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/two-pizza-tea
 <br>
 Jun 18 - <a href="https://lethain.com/values-oasis/">Trapped in a Value Oasis by Will Larson</a>
 <br>
+Apr 30 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/considering-size-and-scope-of-services/">Considering Size and Scope of Services by Bryan Landerman</a>
+<br>
 
 <br>
 <b>2019</b>
