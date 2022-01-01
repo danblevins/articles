@@ -28,6 +28,8 @@ Apr 30 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/considering-s
 <br>
 Nov 16 - <a href="https://quillette.com/2019/11/16/thorstein-veblens-theory-of-the-leisure-class-a-status-update/#:~:text=Thorstein%20Veblen's%20Theory%20of%20the%20Leisure%20Class%E2%80%94A%20Status%20Update,-Rob%20Henderson&text=Luxury%20beliefs%20are%20ideas%20and,class%20with%20their%20material%20accoutrements.">Thorstein Veblen's Theory of the Leisure Class -- A Status Update by Rob Henderson</a>
 <br>
+Oct 22 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/experiment-more-fail-less/">Experiment More, Fail Less by Phil Le-Brun</a>
+<br>
 May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt by Martin Fowler</a>
 <br>
 
