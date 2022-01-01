@@ -30,6 +30,12 @@ Nov 16 - <a href="https://quillette.com/2019/11/16/thorstein-veblens-theory-of-t
 <br>
 
 <br>
+<b>2015</b>
+<br>
+May 26 - <a href="https://martinfowler.com/bliki/Yagni.html">Yagni by Martin Fowler</a>
+<br>
+
+<br>
 <b>2010</b>
 <br>
 Apr 01 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
