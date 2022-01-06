@@ -1,5 +1,5 @@
 # 📄 Articles
-This is a list of articles I've found thought provoking or informative. Presented in descending order based on the article's original publication date (or date read).
+This is a curated list of articles I've found thought provoking or informative. Presented in descending order based on the article's original publication date (or date read).
 
 <br>
 <b>2021</b>
