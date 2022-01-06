@@ -4,6 +4,8 @@ This is a list of articles I've found thought provoking or informative. Presente
 <br>
 <b>2021</b>
 <br>
+Dec 01 - <a href="https://xdg.me/mentor-engineers/">How to Mentor Software Engineers by David Golden</a>
+<br>
 Oct 21 - <a href="https://danluu.com/look-stupid/">Willingness to Look Stupid by Dan Luu</a>
 <br>
 Oct 05 - <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
