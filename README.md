@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2021</b>
 <br>
+Dec 07 - <a href="https://www.rubick.com/milestones-not-projects/">Great Engineering Teams Focus on Milestones instead of Projects by Jade Rubick</a>
+<br>
 Dec 01 - <a href="https://xdg.me/mentor-engineers/">How to Mentor Software Engineers by David Golden</a>
 <br>
 Oct 21 - <a href="https://danluu.com/look-stupid/">Willingness to Look Stupid by Dan Luu</a>
