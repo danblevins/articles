@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2021</b>
 <br>
+Dec 16 - <a href="https://newsletter.pragmaticengineer.com/p/working-with-product-managers-advice-from-pms">Working with Product Managers: Advice from PMs by Gergely Orosz</a>
+<br>
 Dec 07 - <a href="https://www.rubick.com/milestones-not-projects/">Great Engineering Teams Focus on Milestones instead of Projects by Jade Rubick</a>
 <br>
 Dec 01 - <a href="https://xdg.me/mentor-engineers/">How to Mentor Software Engineers by David Golden</a>
