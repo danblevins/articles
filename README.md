@@ -2,6 +2,12 @@
 This is a curated list of articles I've found thought provoking or informative. Presented in descending order based on the article's original publication date (or date read).
 
 <br>
+<b>2022</b>
+<br>
+Jan 14 - <a href="https://www.reforge.com/blog/managing-tech-debt">Tech Debt is not a Burden, it's a Strategic Lever for Success by Matt Greenberg and Keya Patel</a>
+<br>
+
+<br>
 <b>2021</b>
 <br>
 Dec 16 - <a href="https://newsletter.pragmaticengineer.com/p/working-with-product-managers-advice-from-pms">Working with Product Managers: Advice from PMs by Gergely Orosz</a>
