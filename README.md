@@ -22,6 +22,8 @@ Oct 05 - <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
 <br>
 Jun 01 - <a href="http://www.paulgraham.com/hwh.html">How to Work Hard by Paul Graham</a>
 <br>
+Apr 01 - <a href="https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html">What is functional programming? A practical guide by Matthew Tyson</a>
+<br>
 Mar 18 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/two-pizza-teams-are-just-the-start-accountability-and-empowerment-are-key-to-high-performing-agile-organizations-part-2/">Two Pizza Teams are just the Start Part 2 by Tom Godden</a>
 <br>
 Mar 15 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/two-pizza-teams-are-just-the-start-accountability-and-empowerment-are-key-to-high-performing-agile-organizations-part-1/">Two Pizza Teams are just the Start Part 1 by Tom Godden</a>
