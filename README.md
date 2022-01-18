@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Jan 15 - <a href="https://trungphan.substack.com/p/why-is-linkedin-so-cringe">Why is LinkedIn so cringe? by Trung Phan</a>
+<br>
 Jan 14 - <a href="https://www.reforge.com/blog/managing-tech-debt">Tech Debt is not a Burden, it's a Strategic Lever for Success by Matt Greenberg and Keya Patel</a>
 <br>
 
