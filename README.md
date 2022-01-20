@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Jan 20 - <a href="https://github.com/readme/guides/decision-framework">Knowing when to say 'no' by Jon Parise</a>
+<br>
 Jan 19 - <a href="https://github.com/donnemartin/system-design-primer">The System Design Primer by Donne Martin</a>
 <br>
 Jan 15 - <a href="https://trungphan.substack.com/p/why-is-linkedin-so-cringe">Why is LinkedIn so cringe? by Trung Phan</a>
