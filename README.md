@@ -62,6 +62,12 @@ May 26 - <a href="https://martinfowler.com/bliki/Yagni.html">Yagni by Martin Fow
 <br>
 
 <br>
+<b>2014</b>
+<br>
+Aug 31 - <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message by CBEAMS</a>
+<br>
+
+<br>
 <b>2010</b>
 <br>
 Apr 01 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
