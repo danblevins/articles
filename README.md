@@ -6,6 +6,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 Jan 20 - <a href="https://github.com/readme/guides/decision-framework">Knowing when to say 'no' by Jon Parise</a>
 <br>
+Jan 19 - <a href="https://news.utexas.edu/2022/01/19/giving-project-teams-more-autonomy-boosts-productivity-and-customer-satisfaction/">Giving Project Teams More Autonomy Boosts Productivity and Customer Satisfaction by UT Austin</a>
+<br>
 Jan 19 - <a href="https://github.com/donnemartin/system-design-primer">The System Design Primer by Donne Martin</a>
 <br>
 Jan 15 - <a href="https://trungphan.substack.com/p/why-is-linkedin-so-cringe">Why is LinkedIn so cringe? by Trung Phan</a>
@@ -53,6 +55,12 @@ Nov 16 - <a href="https://quillette.com/2019/11/16/thorstein-veblens-theory-of-t
 Oct 22 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/experiment-more-fail-less/">Experiment More, Fail Less by Phil Le-Brun</a>
 <br>
 May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt by Martin Fowler</a>
+<br>
+
+<br>
+<b>2016</b>
+<br>
+Mar 20 - <a href="https://blog.standuply.com/are-your-standups-awesome-91fb124033be">Are your standups awesome? by Dave Smith</a>
 <br>
 
 <br>
