@@ -71,3 +71,10 @@ Aug 31 - <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message
 <b>2010</b>
 <br>
 Apr 01 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
+<br>
+
+<br>
+<b>2006</b>
+<br>
+Oct 25 - <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">The Guerrilla Guide to Interviewing (version 3.0) by Joel Spolsky</a>
+
