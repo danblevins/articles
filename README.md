@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Jan 28 - <a href="https://www.hyrumslaw.com/">Hyrum's Law by Hyrum Wright</a>
+<br>
 Jan 20 - <a href="https://github.com/readme/guides/decision-framework">Knowing when to say 'no' by Jon Parise</a>
 <br>
 Jan 19 - <a href="https://news.utexas.edu/2022/01/19/giving-project-teams-more-autonomy-boosts-productivity-and-customer-satisfaction/">Giving Project Teams More Autonomy Boosts Productivity and Customer Satisfaction by UT Austin</a>
