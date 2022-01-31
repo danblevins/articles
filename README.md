@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Jan 31 - <a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/">How Big Tech Runs Tech Projects and the Curious Absence of Scrum by Gergely Orosz</a>
+<br>
 Jan 28 - <a href="https://www.hyrumslaw.com/">Hyrum's Law by Hyrum Wright</a>
 <br>
 Jan 20 - <a href="https://github.com/readme/guides/decision-framework">Knowing when to say 'no' by Jon Parise</a>
