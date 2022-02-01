@@ -80,6 +80,12 @@ Aug 31 - <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message
 <br>
 
 <br>
+<b>2011</b>
+<br>
+Jul 19 - <a href="https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116">The Netflix Simian Army by Yury Izrailevsky and Ariel Tseitlin</a>
+<br>
+
+<br>
 <b>2010</b>
 <br>
 Apr 01 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
