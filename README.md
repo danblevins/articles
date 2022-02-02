@@ -26,6 +26,8 @@ Jan 13 - <a href="https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-softwa
 <br>
 Dec 16 - <a href="https://newsletter.pragmaticengineer.com/p/working-with-product-managers-advice-from-pms">Working with Product Managers: Advice from PMs by Gergely Orosz</a>
 <br>
+Dec 14 - <a href="https://threadreaderapp.com/thread/1470613731071696896.html">A Hundred Things I Learned Working on the React Team by Dan Abramov</a>
+<br>
 Dec 07 - <a href="https://www.rubick.com/milestones-not-projects/">Great Engineering Teams Focus on Milestones instead of Projects by Jade Rubick</a>
 <br>
 Dec 01 - <a href="https://xdg.me/mentor-engineers/">How to Mentor Software Engineers by David Golden</a>
