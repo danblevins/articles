@@ -60,6 +60,8 @@ Nov 16 - <a href="https://quillette.com/2019/11/16/thorstein-veblens-theory-of-t
 <br>
 Oct 22 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/experiment-more-fail-less/">Experiment More, Fail Less by Phil Le-Brun</a>
 <br>
+Aug 01 - <a href="https://increment.com/testing/i-test-in-production/">I Test in Prod by Charity Majors</a>
+<br>
 May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt by Martin Fowler</a>
 <br>
 
