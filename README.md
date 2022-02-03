@@ -64,6 +64,12 @@ May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical D
 <br>
 
 <br>
+<b>2018</b>
+<br>
+Jul 16 - <a href="https://hbr.org/2018/07/why-women-volunteer-for-tasks-that-dont-lead-to-promotions">Why Women Volunteer for Tasks That Don’t Lead to Promotions by Linda Babcock, Maria P. Recalde, and Lise Vesterlund</a>
+<br>
+
+<br>
 <b>2016</b>
 <br>
 Mar 20 - <a href="https://blog.standuply.com/are-your-standups-awesome-91fb124033be">Are your standups awesome? by Dave Smith</a>
