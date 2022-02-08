@@ -4,9 +4,13 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Feb 01 - <a href="https://jessitron.com/2022/02/01/to-share-the-work-share/">To Share the Work, Share the Decisions by Jessitron</a>
+<br>
 Jan 31 - <a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/">How Big Tech Runs Tech Projects and the Curious Absence of Scrum by Gergely Orosz</a>
 <br>
 Jan 28 - <a href="https://www.hyrumslaw.com/">Hyrum's Law by Hyrum Wright</a>
+<br>
+Jan 26 - <a href="https://www.thezbook.com/the-biggest-mistake-i-see-engineers-make-2/">The Biggest Mistake I See Engineers Make by Zach Lloyd</a>
 <br>
 Jan 20 - <a href="https://github.com/readme/guides/decision-framework">Knowing when to say 'no' by Jon Parise</a>
 <br>
@@ -19,6 +23,8 @@ Jan 15 - <a href="https://trungphan.substack.com/p/why-is-linkedin-so-cringe">Wh
 Jan 14 - <a href="https://www.reforge.com/blog/managing-tech-debt">Tech Debt is not a Burden, it's a Strategic Lever for Success by Matt Greenberg and Keya Patel</a>
 <br>
 Jan 13 - <a href="https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software">Green Lumber Fallacy in Software Engineering by Chris Behan</a>
+<br>
+Jan 12 - <a href="https://www.morling.dev/blog/whats-in-a-good-error-message/">What's in a Good Error Message? by Gunnar Morling</a>
 <br>
 
 <br>
@@ -99,6 +105,12 @@ Jul 19 - <a href="https://netflixtechblog.com/the-netflix-simian-army-16e57fbab1
 <b>2010</b>
 <br>
 Apr 01 - <a href="http://www.paulgraham.com/organic.html">Organic Startup Ideas by Paul Graham</a>
+<br>
+
+<br>
+<b>2009</b>
+<br>
+July 01 - <a href="http://www.paulgraham.com/makersschedule.html">Maker's Schedule, Manager's Schedule by Paul Graham</a>
 <br>
 
 <br>
