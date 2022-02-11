@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
+<br>
 Feb 01 - <a href="https://jessitron.com/2022/02/01/to-share-the-work-share/">To Share the Work, Share the Decisions by Jessitron</a>
 <br>
 Jan 31 - <a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/">How Big Tech Runs Tech Projects and the Curious Absence of Scrum by Gergely Orosz</a>
@@ -75,6 +77,13 @@ May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical D
 <b>2018</b>
 <br>
 Jul 16 - <a href="https://hbr.org/2018/07/why-women-volunteer-for-tasks-that-dont-lead-to-promotions">Why Women Volunteer for Tasks That Don’t Lead to Promotions by Linda Babcock, Maria P. Recalde, and Lise Vesterlund</a>
+<br>
+
+
+<br>
+<b>2017</b>
+<br>
+Mar 22 - <a href="https://queue.acm.org/detail.cfm?id=3068754">The Debugging Mindset by Devon H. O'Dell</a>
 <br>
 
 <br>
