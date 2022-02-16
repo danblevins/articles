@@ -60,6 +60,8 @@ Jun 18 - <a href="https://lethain.com/values-oasis/">Trapped in a Value Oasis by
 <br>
 Apr 30 - <a href="https://aws.amazon.com/blogs/enterprise-strategy/considering-size-and-scope-of-services/">Considering Size and Scope of Services by Bryan Landerman</a>
 <br>
+Feb 05 - <a href="https://www.alexdebrie.com/posts/dynamodb-single-table/">The What, Why, and When of Single-Table Design with DynamoDB by Alex DeBrie</a>
+<br>
 
 <br>
 <b>2019</b>
