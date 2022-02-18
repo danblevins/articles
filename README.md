@@ -80,6 +80,8 @@ May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical D
 <br>
 Jul 16 - <a href="https://hbr.org/2018/07/why-women-volunteer-for-tasks-that-dont-lead-to-promotions">Why Women Volunteer for Tasks That Don’t Lead to Promotions by Linda Babcock, Maria P. Recalde, and Lise Vesterlund</a>
 <br>
+Apr 26 - <a href="https://lethain.com/model-document-share/">Model, Document and Share by Will Larson</a>
+<br>
 
 
 <br>
