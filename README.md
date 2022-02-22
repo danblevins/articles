@@ -4,6 +4,9 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety">Agile Doesn’t Work without Psychological Safety
+by Timothy R. Clark</a>
+<br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
 <br>
 Feb 01 - <a href="https://jessitron.com/2022/02/01/to-share-the-work-share/">To Share the Work, Share the Decisions by Jessitron</a>
