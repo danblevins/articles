@@ -79,6 +79,8 @@ Aug 01 - <a href="https://increment.com/testing/i-test-in-production/">I Test in
 <br>
 May 21 - <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt by Martin Fowler</a>
 <br>
+Feb 01 - <a href="https://medium.com/paypal-tech/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680">PostgreSQL at Scale: Database Schema Changes Without Downtime by James Coleman</a>
+<br>
 
 <br>
 <b>2018</b>
