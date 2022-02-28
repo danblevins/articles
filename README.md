@@ -4,8 +4,9 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
-Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety">Agile Doesn’t Work without Psychological Safety
-by Timothy R. Clark</a>
+Feb 28 - <a href="https://joshkaufman.net/how-to-ask-useful-questions/">How to Ask Useful Questions by Josh Kaufman</a>
+<br>
+Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety">Agile Doesn’t Work without Psychological Safety by Timothy R. Clark</a>
 <br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
 <br>
@@ -50,6 +51,8 @@ Oct 05 - <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
 Jun 01 - <a href="http://www.paulgraham.com/hwh.html">How to Work Hard by Paul Graham</a>
 <br>
 May 06 - <a href="https://www.geeksforgeeks.org/best-practices-to-write-clean-python-code/">Best Practices to Write Clean Python Code by Vani Gupta</a>
+<br>
+Apr 06 - <a href="https://anthonynsimon.com/blog/one-man-saas-architecture/">The Architecture Behind A One-Person Tech Startup by Anthony Simon</a>
 <br>
 Apr 01 - <a href="https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html">What is functional programming? A practical guide by Matthew Tyson</a>
 <br>
