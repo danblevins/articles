@@ -6,6 +6,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 Feb 28 - <a href="https://joshkaufman.net/how-to-ask-useful-questions/">How to Ask Useful Questions by Josh Kaufman</a>
 <br>
+Feb 21 - <a href="https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/">What is Developer Experience? A Roundup of Links and Goodness by James Governor</a>
+<br>
 Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety">Agile Doesn’t Work without Psychological Safety by Timothy R. Clark</a>
 <br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
