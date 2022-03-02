@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Mar 02 - <a href="https://noidea.dog/glue">Being Glue by Tanya Reilly</a>
+<br>
 Feb 28 - <a href="https://joshkaufman.net/how-to-ask-useful-questions/">How to Ask Useful Questions by Josh Kaufman</a>
 <br>
 Feb 21 - <a href="https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/">What is Developer Experience? A Roundup of Links and Goodness by James Governor</a>
