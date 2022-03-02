@@ -121,6 +121,12 @@ Aug 31 - <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message
 <br>
 
 <br>
+<b>2013</b>
+<br>
+Aug 23 - <a href="https://www.hanselman.com/blog/am-i-really-a-developer-or-just-a-good-googler">Am I really a Developer or just a good Googler? by Scott Hanselman</a>
+<br>
+
+<br>
 <b>2011</b>
 <br>
 Jul 19 - <a href="https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116">The Netflix Simian Army by Yury Izrailevsky and Ariel Tseitlin</a>
