@@ -101,6 +101,8 @@ Apr 26 - <a href="https://lethain.com/model-document-share/">Model, Document and
 <br>
 <b>2017</b>
 <br>
+May 11 - <a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">The Engineer/Manager Pendulum by MipsyTipsy</a>
+<br>
 Mar 22 - <a href="https://queue.acm.org/detail.cfm?id=3068754">The Debugging Mindset by Devon H. O'Dell</a>
 <br>
 
@@ -150,4 +152,3 @@ July 01 - <a href="http://www.paulgraham.com/makersschedule.html">Maker's Schedu
 <b>2006</b>
 <br>
 Oct 25 - <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">The Guerrilla Guide to Interviewing (version 3.0) by Joel Spolsky</a>
-
