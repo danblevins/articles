@@ -4,13 +4,19 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Mar 04 - <a href="https://manningbooks.medium.com/the-act-of-writing-code-c6b8e2a17131">The Act of Writing Code by Manning Publications</a>
+<br>
 Mar 02 - <a href="https://noidea.dog/glue">Being Glue by Tanya Reilly</a>
 <br>
 Feb 28 - <a href="https://joshkaufman.net/how-to-ask-useful-questions/">How to Ask Useful Questions by Josh Kaufman</a>
 <br>
+Feb 23 - <a href="https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102">Data Quality Unit Tests in PySpark Using Great Expectations by Karen Bajador Valencia</a>
+<br>
 Feb 21 - <a href="https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/">What is Developer Experience? A Roundup of Links and Goodness by James Governor</a>
 <br>
 Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety">Agile Doesn’t Work without Psychological Safety by Timothy R. Clark</a>
+<br>
+Feb 19 - <a href="https://azeynalli1990.medium.com/23-basic-principles-in-software-architecture-7913f109decc">23 Basic Principles in Software Architecture by Ali Zeynalli</a>
 <br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
 <br>
@@ -35,6 +41,8 @@ Jan 14 - <a href="https://www.reforge.com/blog/managing-tech-debt">Tech Debt is 
 Jan 13 - <a href="https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software">Green Lumber Fallacy in Software Engineering by Chris Behan</a>
 <br>
 Jan 12 - <a href="https://www.morling.dev/blog/whats-in-a-good-error-message/">What's in a Good Error Message? by Gunnar Morling</a>
+<br>
+Jan 05 - <a href="https://medium.com/datatobiz/importance-of-building-a-data-strategy-for-business-growth-5d4d599cf2b5">Importance of Building a Data Strategy for Business Growth by Kavika Roy</a>
 <br>
 
 <br>
@@ -108,6 +116,8 @@ Mar 22 - <a href="https://queue.acm.org/detail.cfm?id=3068754">The Debugging Min
 
 <br>
 <b>2016</b>
+<br>
+Apr 10 - <a href="https://www.onebigfluke.com/2016/04/whats-awful-building-software.html">What's awful about being a {software engineer, tech lead, manager}? by Brett Slatkin</a>
 <br>
 Mar 20 - <a href="https://blog.standuply.com/are-your-standups-awesome-91fb124033be">Are your standups awesome? by Dave Smith</a>
 <br>
