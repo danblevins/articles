@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Mar 22 - <a href="http://www.pearlleff.com/in-praise-of-memorization">In Praise of Memorization by Pearl Leff</a>
+<br>
 Mar 04 - <a href="https://manningbooks.medium.com/the-act-of-writing-code-c6b8e2a17131">The Act of Writing Code by Manning Publications</a>
 <br>
 Mar 02 - <a href="https://noidea.dog/glue">Being Glue by Tanya Reilly</a>
