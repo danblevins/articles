@@ -20,6 +20,8 @@ Feb 21 - <a href="https://hbr.org/2022/02/agile-doesnt-work-without-psychologica
 <br>
 Feb 19 - <a href="https://azeynalli1990.medium.com/23-basic-principles-in-software-architecture-7913f109decc">23 Basic Principles in Software Architecture by Ali Zeynalli</a>
 <br>
+Feb 18 - <a href="https://betterprogramming.pub/how-to-read-technical-books-effectively-11167a8ea27c">How To Read Technical Books Effectively by Recep İnanç</a>
+<br>
 Feb 10 - <a href="https://medium.com/doctave/why-you-should-consider-using-docs-as-code-701cae6021c">Why you should Consider using Docs-as-Code by Nik Begley</a>
 <br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
