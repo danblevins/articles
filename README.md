@@ -26,6 +26,8 @@ Feb 10 - <a href="https://medium.com/doctave/why-you-should-consider-using-docs-
 <br>
 Feb 09 - <a href="https://www.linkedin.com/pulse/aperos-code-review-elements-carlos-silvestre/">The APEROS Code Review Elements by Carlos Silvestre</a>
 <br>
+Feb 01 - <a href="http://www.paulgraham.com/words.html">Putting Ideas into Words by Paul Graham</a>
+<br>
 Feb 01 - <a href="https://jessitron.com/2022/02/01/to-share-the-work-share/">To Share the Work, Share the Decisions by Jessitron</a>
 <br>
 Jan 31 - <a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/">How Big Tech Runs Tech Projects and the Curious Absence of Scrum by Gergely Orosz</a>
