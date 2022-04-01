@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Apr 01 - <a href="https://www.johnwhiles.com/posts/work.html">Maybe you should do less 'work' by John Whiles</a>
+<br>
 Mar 22 - <a href="http://www.pearlleff.com/in-praise-of-memorization">In Praise of Memorization by Pearl Leff</a>
 <br>
 Mar 04 - <a href="https://manningbooks.medium.com/the-act-of-writing-code-c6b8e2a17131">The Act of Writing Code by Manning Publications</a>
@@ -116,6 +118,8 @@ Apr 26 - <a href="https://lethain.com/model-document-share/">Model, Document and
 
 <br>
 <b>2017</b>
+<br>
+Sep 13 - <a href="https://www.linkedin.com/pulse/25-ways-demonstrate-technical-leadership-lee-mallabone/">25 Ways to Demonstrate Technical Leadership by Lee Mallabone</a>
 <br>
 May 11 - <a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">The Engineer/Manager Pendulum by MipsyTipsy</a>
 <br>
