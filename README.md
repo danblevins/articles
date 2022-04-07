@@ -54,6 +54,8 @@ Jan 12 - <a href="https://www.morling.dev/blog/whats-in-a-good-error-message/">W
 <br>
 Jan 05 - <a href="https://medium.com/datatobiz/importance-of-building-a-data-strategy-for-business-growth-5d4d599cf2b5">Importance of Building a Data Strategy for Business Growth by Kavika Roy</a>
 <br>
+Jan 04 - <a href="https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d">How to become a More Effective Engineer by Cindy Sridharan</a>
+<br>
 
 <br>
 <b>2021</b>
