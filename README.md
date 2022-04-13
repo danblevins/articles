@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Apr 05 - <a href="https://www.freecodecamp.org/news/command-line-for-beginners/amp/">Command Line for Beginners by Germán Cocca</a>
+<br>
 Apr 01 - <a href="https://www.johnwhiles.com/posts/work.html">Maybe you should do less 'work' by John Whiles</a>
 <br>
 Mar 22 - <a href="http://www.pearlleff.com/in-praise-of-memorization">In Praise of Memorization by Pearl Leff</a>
