@@ -4,6 +4,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 <b>2022</b>
 <br>
+Apr 14 - <a href="https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e">Recommender Systems, Not Just Recommender Models by Even Oldridge</a>
+<br>
 Apr 05 - <a href="https://www.freecodecamp.org/news/command-line-for-beginners/amp/">Command Line for Beginners by Germán Cocca</a>
 <br>
 Apr 01 - <a href="https://www.johnwhiles.com/posts/work.html">Maybe you should do less 'work' by John Whiles</a>
