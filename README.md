@@ -1,5 +1,5 @@
 # 📄 Articles
-This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding, Product/Project Management, Soft Skills, and Other.
+This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding/ Software Engineering, Product/Project Management, Soft Skills, and Other.
 
 <br>
 <b>Career Development</b>
@@ -32,7 +32,7 @@ This is a curated list of articles I've found thought provoking or informative. 
 
 <br>
 <br>
-<b>Coding</b>
+<b>Coding/ Software Engineering</b>
 <br>
 • <a href="https://www.freecodecamp.org/news/command-line-for-beginners/amp/">Command Line for Beginners by Germán Cocca</a>
 <br>
@@ -77,6 +77,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message by CBEAMS</a>
 <br>
 • <a href="https://www.hanselman.com/blog/am-i-really-a-developer-or-just-a-good-googler">Am I really a Developer or just a good Googler? by Scott Hanselman</a>
+<br>
+• <a href="https://medium.com/@lucapelosi/5-design-principles-from-a-software-architecture-guru-8762a304fb3b">5 Design Principles from a Software Architecture guru by Luca Pelosi</a>
 
 <br>
 <br>
