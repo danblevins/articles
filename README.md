@@ -1,5 +1,5 @@
 # 📄 Articles
-This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding/ Software Engineering, Product/Project Management, Soft Skills, and Other.
+This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding/ Software Engineering, Data Engineering, Product/Project Management, Soft Skills, and Other.
 
 <br>
 <b>Career Development</b>
@@ -38,8 +38,6 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 • <a href="https://manningbooks.medium.com/the-act-of-writing-code-c6b8e2a17131">The Act of Writing Code by Manning Publications</a>
 <br>
-• <a href="https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102">Data Quality Unit Tests in PySpark Using Great Expectations by Karen Bajador Valencia</a>
-<br>
 • <a href="https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/">What is Developer Experience? A Roundup of Links and Goodness by James Governor</a>
 <br>
 • <a href="https://azeynalli1990.medium.com/23-basic-principles-in-software-architecture-7913f109decc">23 Basic Principles in Software Architecture by Ali Zeynalli</a>
@@ -66,8 +64,6 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 • <a href="https://increment.com/testing/i-test-in-production/">I Test in Prod by Charity Majors</a>
 <br>
-• <a href="https://medium.com/paypal-tech/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680">PostgreSQL at Scale: Database Schema Changes Without Downtime by James Coleman</a>
-<br>
 • <a href="https://queue.acm.org/detail.cfm?id=3068754">The Debugging Mindset by Devon H. O'Dell</a>
 <br>
 • <a href="https://www.onebigfluke.com/2016/04/whats-awful-building-software.html">What's awful about being a {software engineer, tech lead, manager}? by Brett Slatkin</a>
@@ -81,6 +77,17 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://medium.com/@lucapelosi/5-design-principles-from-a-software-architecture-guru-8762a304fb3b">5 Design Principles from a Software Architecture guru by Luca Pelosi</a>
 <br>
 • <a href="https://hilton.org.uk/blog/naming-smells">Naming Smells by Peter Hilton</a>
+
+<br>
+<br>
+<b>Data Engineering</b>
+<br>
+• <a href="https://medium.com/paypal-tech/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680">PostgreSQL at Scale: Database Schema Changes Without Downtime by James Coleman</a>
+<br>
+• <a href="https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102">Data Quality Unit Tests in PySpark Using Great Expectations by Karen Bajador Valencia</a>
+<br>
+• <a href="https://aws.amazon.com/blogs/big-data/scale-amazon-redshift-to-meet-high-throughput-query-requirements/">Scale Amazon Redshift to meet High Throughput Query Requirements by Erik Anderson and Rohit Bansal</a>
+<br>
 
 <br>
 <br>
