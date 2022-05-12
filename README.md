@@ -154,3 +154,5 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">The Guerrilla Guide to Interviewing (version 3.0) by Joel Spolsky</a>
 <br>
 • <a href="https://johnpublic.mataroa.blog/blog/the-asshole-test/">IBM's Asshole Test by John Public</a>
+<br>
+• <a href="https://how.complexsystems.fail/">How Complex Systems Fail by Richard Cook</a>
