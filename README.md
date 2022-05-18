@@ -77,6 +77,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://medium.com/@lucapelosi/5-design-principles-from-a-software-architecture-guru-8762a304fb3b">5 Design Principles from a Software Architecture guru by Luca Pelosi</a>
 <br>
 • <a href="https://hilton.org.uk/blog/naming-smells">Naming Smells by Peter Hilton</a>
+<br>
+• <a href="https://www.dreamsongs.com/RiseOfWorseIsBetter.html">The Rise of Worse is Better by Richard P. Gabriel</a>
 
 <br>
 <br>
