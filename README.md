@@ -79,6 +79,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://hilton.org.uk/blog/naming-smells">Naming Smells by Peter Hilton</a>
 <br>
 • <a href="https://www.dreamsongs.com/RiseOfWorseIsBetter.html">The Rise of Worse is Better by Richard P. Gabriel</a>
+<br>
+• <a href="https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html">Why I Write Dirty Code by Adam Tornhill</a>
 
 <br>
 <br>
@@ -89,7 +91,6 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102">Data Quality Unit Tests in PySpark Using Great Expectations by Karen Bajador Valencia</a>
 <br>
 • <a href="https://aws.amazon.com/blogs/big-data/scale-amazon-redshift-to-meet-high-throughput-query-requirements/">Scale Amazon Redshift to meet High Throughput Query Requirements by Erik Anderson and Rohit Bansal</a>
-<br>
 
 <br>
 <br>
@@ -128,6 +129,9 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://danluu.com/look-stupid/">Willingness to Look Stupid by Dan Luu</a>
 <br>
 • <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
+<br>
+• <a href="https://nohello.net/en/">No Hello by Unknown</a>
+
 
 <br>
 <br>
