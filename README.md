@@ -166,3 +166,5 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://johnpublic.mataroa.blog/blog/the-asshole-test/">IBM's Asshole Test by John Public</a>
 <br>
 • <a href="https://how.complexsystems.fail/">How Complex Systems Fail by Richard Cook</a>
+<br>
+• <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Akin's Law of Spacecraft Design by Dave Akin</a>
