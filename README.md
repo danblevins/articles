@@ -81,6 +81,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://www.dreamsongs.com/RiseOfWorseIsBetter.html">The Rise of Worse is Better by Richard P. Gabriel</a>
 <br>
 • <a href="https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html">Why I Write Dirty Code by Adam Tornhill</a>
+<br>
+• <a href="https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/">The Collapse of Complex Software by Nolan Lawson</a>
 
 <br>
 <br>
