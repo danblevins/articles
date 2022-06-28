@@ -83,6 +83,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html">Why I Write Dirty Code by Adam Tornhill</a>
 <br>
 • <a href="https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/">The Collapse of Complex Software by Nolan Lawson</a>
+<br>
+• <a href="https://www.toptal.com/java/a-guide-to-everyday-mockito">A Unit Testing Practitioner's Guide to Everyday Mockito by Ivan Pavlov</a>
 
 <br>
 <br>
