@@ -139,6 +139,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://xyproblem.info/">The XY Problem by Unknown</a>
 <br>
 • <a href="https://nohello.net/en/">No Hello by Unknown</a>
+<br>
+• <a href="https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions">People Spend Too Much Time On Decisions with Equally Satisfying Outcomes by Rob Henderson</a>
 
 
 <br>
