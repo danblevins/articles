@@ -87,6 +87,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://www.toptal.com/java/a-guide-to-everyday-mockito">A Unit Testing Practitioner's Guide to Everyday Mockito by Ivan Pavlov</a>
 <br>
 • <a href="https://css-tricks.com/technical-writing-for-developers/">Technical Writing for Developers by Eluda</a>
+<br>
+• <a href="https://stackoverflow.blog/2022/08/15/how-to-interrogate-unfamiliar-code/">How to Interrogate Unfamiliar Code by Isaac Lyman</a>
 
 <br>
 <br>
