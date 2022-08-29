@@ -176,3 +176,5 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://how.complexsystems.fail/">How Complex Systems Fail by Richard Cook</a>
 <br>
 • <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Akin's Law of Spacecraft Design by Dave Akin</a>
+<br>
+• <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Devs don’t want to do Ops by Scott Carey</a>
