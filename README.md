@@ -178,3 +178,5 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Akin's Law of Spacecraft Design by Dave Akin</a>
 <br>
 • <a href="https://spacecraft.ssl.umd.edu/akins_laws.html">Devs don’t want to do Ops by Scott Carey</a>
+<br>
+• <a href="https://uxdesign.cc/googles-heart-framework-choosing-the-right-metrics-for-your-product-112bd7300d55">Google’s Heart framework: Choosing the Right Metrics for your Product by Zbignev Gecis</a>
