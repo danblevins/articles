@@ -145,6 +145,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions">People Spend Too Much Time On Decisions with Equally Satisfying Outcomes by Rob Henderson</a>
 <br>
 • <a href="https://betterprogramming.pub/11-non-technical-lessons-for-software-engineers-414d5a06b6eb">11 Non-Technical Lessons for Software Engineers by Victor Pleșcan</a>
+<br>
+• <a href="https://lamport.azurewebsites.net/pubs/state-the-problem.pdf">State the Problem by Leslie Lamport</a>
 
 
 <br>
