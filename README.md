@@ -89,6 +89,10 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://css-tricks.com/technical-writing-for-developers/">Technical Writing for Developers by Eluda</a>
 <br>
 • <a href="https://stackoverflow.blog/2022/08/15/how-to-interrogate-unfamiliar-code/">How to Interrogate Unfamiliar Code by Isaac Lyman</a>
+<br>
+• <a href="https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/">Best Practices for Code Review by SmartBear</a>
+<br>
+• <a href="https://appunite.com/blog/code-review-best-practices">Code Review Best Practices by Michal Nowak</a>
 
 <br>
 <br>
