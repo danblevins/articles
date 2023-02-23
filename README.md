@@ -105,6 +105,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://aws.amazon.com/blogs/big-data/scale-amazon-redshift-to-meet-high-throughput-query-requirements/">Scale Amazon Redshift to meet High Throughput Query Requirements by Erik Anderson and Rohit Bansal</a>
 <br>
 • <a href="https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/">Run Big Data Applications without Managing Servers by Channy Yun</a>
+<br>
+• <a href="https://www.startdataengineering.com/post/">Start Data Engineering Posts</a>
 
 <br>
 <br>
