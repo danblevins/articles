@@ -93,6 +93,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/">Best Practices for Code Review by SmartBear</a>
 <br>
 • <a href="https://appunite.com/blog/code-review-best-practices">Code Review Best Practices by Michal Nowak</a>
+<br>
+• <a href="https://blog.matt-rickard.com/p/reflections-on-10000-hours-of-devops">Reflections on 10,000 Hours of DevOps by Matt Rickard</a>
 
 <br>
 <br>
@@ -107,6 +109,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/">Run Big Data Applications without Managing Servers by Channy Yun</a>
 <br>
 • <a href="https://www.startdataengineering.com/post/">Start Data Engineering Posts</a>
+<br>
+• <a href="https://www.sqlstyle.guide/">SQL Style Guide by Simon Holywell</a>
 
 <br>
 <br>
