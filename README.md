@@ -29,6 +29,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">The Engineer/Manager Pendulum by MipsyTipsy</a>
 <br>
 • <a href="https://staffeng.com/stories/michelle-bu">Michelle Bu's Story by StaffEng</a>
+<br>
+• <a href="https://www.mooreds.com/wordpress/archives/3518">Ask for No, Don’t Ask for Yes by Dan Moore</a>
 
 <br>
 <br>
@@ -135,6 +137,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt by Martin Fowler</a>
 <br>
 • <a href="https://blog.standuply.com/are-your-standups-awesome-91fb124033be">Are your standups awesome? by Dave Smith</a>
+<br>
+• <a href="https://hybridhacker.email/p/how-to-use-engineering-metrics">How to Use Engineering Metrics by Luca Rossi</a>
 
 <br>
 <br>
