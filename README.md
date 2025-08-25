@@ -97,6 +97,10 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://appunite.com/blog/code-review-best-practices">Code Review Best Practices by Michal Nowak</a>
 <br>
 • <a href="https://blog.matt-rickard.com/p/reflections-on-10000-hours-of-devops">Reflections on 10,000 Hours of DevOps by Matt Rickard</a>
+<br>
+• <a href="https://ordep.dev/posts/writing-code-was-never-the-bottleneck">Writing Code Was Never The Bottleneck by Ordep</a>
+<br>
+• <a href="https://jola.dev/posts/enough-focus-time">When Software Engineers Think They Need More Focus Time by Johanna Larsso</a>
 
 <br>
 <br>
