@@ -130,6 +130,7 @@ This is a curated list of articles I've found thought provoking or informative. 
 <br>
 • <a href="https://hbr.org/2026/03/preparing-your-brand-for-agentic-ai">Preparing Your Brand for Agentic AI by Oguz A. Acar and David A. Schweidel</a>
 <br>
+• <a href="https://addyosmani.com/blog/good-spec/">How to write a good spec for AI agents by Addy Osmani</a>
 
 <br>
 <br>
