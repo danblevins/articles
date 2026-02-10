@@ -1,5 +1,5 @@
 # 📄 Articles
-This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding/ Software Engineering, Data Engineering, Product/Project Management, Soft Skills, and Other.
+This is a curated list of articles I've found thought provoking or informative. Organized by topics: Career Development, Coding/ Software Engineering, Data Engineering, GenAI, Product/Project Management, Soft Skills, and Other.
 
 <br>
 <b>Career Development</b>
@@ -117,6 +117,19 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://www.startdataengineering.com/post/">Start Data Engineering Posts</a>
 <br>
 • <a href="https://www.sqlstyle.guide/">SQL Style Guide by Simon Holywell</a>
+
+<br>
+<br>
+<b>GenAI</b>
+<br>
+• <a href="https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it">AI Doesn’t Reduce Work—It Intensifies It by Aruna Ranganathan and Xingqi Maggie Ye</a>
+<br>
+• <a href="https://x.com/karpathy/status/2015883857489522876">A Few Random Notes from Claude Coding by Andrej Karpathy on X</a>
+<br>
+• <a href="https://www.oneusefulthing.org/p/management-as-ai-superpower">Management as AI superpower by Ethan Mollick</a>
+<br>
+• <a href="https://hbr.org/2026/03/preparing-your-brand-for-agentic-ai">Preparing Your Brand for Agentic AI by Oguz A. Acar and David A. Schweidel</a>
+<br>
 
 <br>
 <br>
