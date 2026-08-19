@@ -131,6 +131,10 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://hbr.org/2026/03/preparing-your-brand-for-agentic-ai">Preparing Your Brand for Agentic AI by Oguz A. Acar and David A. Schweidel</a>
 <br>
 • <a href="https://addyosmani.com/blog/good-spec/">How to write a good spec for AI agents by Addy Osmani</a>
+<br>
+• <a href="https://tombedor.dev/human-attention-and-human-effort/">If You are Asking for Human Attention, Demonstrate Human Effort by Tom Bedor</a>
+<br>
+• <a href="https://slhck.info/software/2026/06/22/claudish.html">The One Thing I Hate About Claude by Werner Robitza</a>
 
 <br>
 <br>
@@ -179,6 +183,8 @@ This is a curated list of articles I've found thought provoking or informative. 
 • <a href="https://betterprogramming.pub/11-non-technical-lessons-for-software-engineers-414d5a06b6eb">11 Non-Technical Lessons for Software Engineers by Victor Pleșcan</a>
 <br>
 • <a href="https://lamport.azurewebsites.net/pubs/state-the-problem.pdf">State the Problem by Leslie Lamport</a>
+<br>
+• <a href="https://tombedor.dev/how-to-write-good-short-docs/">How to Write Good (Short) Docs by Tom Bedor</a>
 
 
 <br>
